@@ -4,10 +4,10 @@ Desafio DEV CEISC
 ## Instalação
 
 O projeto precisa de um ambiente com:
-    - PHP >= 7.2;
-    - Composer;
-    - GIT;
-    - MySQL;
+ - PHP >= 7.2;
+ - Composer;
+ - GIT;
+ - MySQL;
 
 Estapas para iniciar:
 
