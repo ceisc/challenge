@@ -37,7 +37,7 @@ e 2 páginas de administração:
  - listagem de postagens;
  - edição de postagem.
 
-O objetvo é criar um pequeno blog administrado por 1 pessoa.
+O objetivo é criar um pequeno blog administrado por 1 pessoa.
 Visitantes podem ver a listagem de postagens publicadas, e abrir a publicação completa.
 O administrador pode cadastrar, editar e remover postagens.
 
